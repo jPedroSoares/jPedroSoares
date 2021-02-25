@@ -7,9 +7,16 @@
 - 📫 How to reach me **joao.soares204@hotmail.com**
 - ⚡ Fun fact I love Pizza
 
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jPedroSoares&show_icons=true" alt="jPedroSoares"/> 
- </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jPedroSoares&hide=html&layout=compact" alt="jPedroSoares"/>
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jPedroSoares&show_icons=true" alt="jPedroSoares"/>
+</p>
+
 
 <!--
 **jPedroSoares/jPedroSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
