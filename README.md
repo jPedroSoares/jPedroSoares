@@ -3,7 +3,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Soares</h1>
 <h3 align="center">A web developer passionate about challenges, focusing on helping the world to be a better place 🌱</h3>
 
-- 🔭 I’m currently working on [Bandtec Digital Solutions](https://github.com/BandTec)
+- 🔭 I’m currently working on [Albert Einstein ](https://www.einstein.br/Pages/Home.aspx)
 - 👨‍💻 All of my projects are available [here](https://github.com/jPedroSoares?tab=repositories)
 - 💬 Ask me about **JavaScript, Python, Java, NodeJS, Linux**
 - 📫 How to reach me **joao.soares204@hotmail.com**
